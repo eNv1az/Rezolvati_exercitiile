@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(255, 220, 226);
+    color: rgb(80, 0, 0);
+    font-size: 30px;
+}
+div{
+    text-align: center;
+}
+hr{
+    height: 1px;
+}
+.udotted{
+    border-bottom: 2px dotted #000;
+    text-decoration: none;
+
+
+}
